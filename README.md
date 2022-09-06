@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Co-Founder and Software Engineer at <a href='moonwiz.io'>MoonWiz</a></p>
+<p align="left">Co-Founder and Software Engineer at <a href='https://moonwiz.io/' target="_blank" rel="noopener noreferrer">MoonWiz</a></p>
 
 ###
 
