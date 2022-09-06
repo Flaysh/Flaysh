@@ -8,9 +8,6 @@
 
 <p align="left">I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.<br>I excel at time management, and I like to do tough things.</p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
