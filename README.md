@@ -1,10 +1,7 @@
 ## Hey, I'm Flaysh
 
-###
-
 <p align="left">Co-Founder and Software Engineer at <a href='https://moonwiz.io/'>MoonWiz</a></p>
-
-###
+<p align="left">I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.<br>I excel at time management, and I like to do tough things.</p>
 
 ## My work
 
@@ -12,18 +9,9 @@
  - [MoonWiz Application](https://app.moonwiz.io)
  - [MoonWiz Old Application](https://old.moonwiz.io)
 
-###
+## 🛠 Skills
 
-<p align="left">I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.<br>I excel at time management, and I like to do tough things.</p>
-
-
-###
-
-<h2 align="left">Specializes in:</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
