@@ -1,8 +1,16 @@
-<h1 align="left">Hey 👋 I'm Flaysh</h1>
+## Hey, I'm Flaysh
 
 ###
 
 <p align="left">Co-Founder and Software Engineer at <a href='https://moonwiz.io/'>MoonWiz</a></p>
+
+###
+
+## My work
+
+ - [MoonWiz Main](https://moonwiz.io)
+ - [MoonWiz Application](https://app.moonwiz.io)
+ - [MoonWiz Old Application](https://old.moonwiz.io)
 
 ###
 
