@@ -5,7 +5,7 @@
 I excel at time management, and I like to do tough things.
 
 ## MoonWiz
-### Crypto Trading IdeasFrom Across The Web
+### Crypto Trading Ideas From Across The Web
 
 MoonWiz is a Smart Network for trading ideas and strategies.
 We collect data from multiple sources online to save you time while trading.
