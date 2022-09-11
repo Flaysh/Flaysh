@@ -1,10 +1,16 @@
 ## Hey, I'm Flaysh
 
-<p align="left">Co-Founder and Software Engineer at <a href='https://moonwiz.io/'>MoonWiz</a></p>
-<p align="left">I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.<br>I excel at time management, and I like to do tough things.</p>
+### Co-Founder and Software Engineer at ![MoonWiz](https://moonwiz.io/)
+#### I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.
+I excel at time management, and I like to do tough things.
 
-## My work
+## MoonWiz
+### Crypto Trading IdeasFrom Across The Web
 
+MoonWiz is a Smart Network for trading ideas and strategies.
+We collect data from multiple sources online to save you time while trading.
+
+#### I Founded, Designed and Built MoonWiz:
  - [MoonWiz Main](https://moonwiz.io)
  - [MoonWiz Application](https://app.moonwiz.io)
  - [MoonWiz Old Application](https://old.moonwiz.io)
