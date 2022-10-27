@@ -2,7 +2,7 @@
 
 ### Co-Founder and Software Engineer at ![MoonWiz](https://github.com/MoonWiz-io)
 #### I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.
-Finishing this year my degree in Computer Science and Business at Open University.
+Finishing this year my degree in Computer Science and Business at The Open University.
 
 I excel at time management, and I like to do tough things.
 
