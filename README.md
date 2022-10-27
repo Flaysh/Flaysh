@@ -7,7 +7,7 @@ Finishing this year my degree in Computer Science and Business at The Open Unive
 I excel at time management, and I like to do tough things.
 
 
-## MoonWiz
+## MoonWiz 🌙
 ### Crypto Trading Ideas From Across The Web
 
 MoonWiz is a Smart Network for trading ideas and strategies.
