@@ -16,7 +16,7 @@ We collect data from multiple sources online to save you time while trading.
 #### I Founded, Designed and Built MoonWiz:
  - [MoonWiz Main](https://moonwiz.io)
  - [MoonWiz Application](https://app.moonwiz.io)
- - [MoonWiz Old Application](https://old.moonwiz.io)
+ - [MoonWiz Old Application](https://old.moonwiz.io) -> Unique custom design!
 
 ## 🛠 Skills
 
