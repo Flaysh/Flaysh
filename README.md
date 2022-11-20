@@ -1,15 +1,14 @@
 ## Hey, I'm Flaysh
 
-
+### Currently working at ![Landa](https://landa.app)
 ### Co-Founder and Software Engineer at ![MoonWiz](https://github.com/MoonWiz-io)
 #### I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.
 Finishing this year my degree in Computer Science and Business at The Open University.
 
 I excel at time management, and I like to do tough things.
 
-
-## MoonWiz 🌙
-### Crypto Trading Ideas From Across The Web
+### MoonWiz 🌙
+#### Crypto Trading Ideas From Across The Web
 
 MoonWiz is a Smart Network for trading ideas and strategies.
 We collect data from multiple sources online to save you time while trading.
