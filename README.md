@@ -1,11 +1,9 @@
 ## Hey, I'm Flaysh
 
-### Currently working at [Landa](https://landa.app)
-### Co-Founder & CTO at [MoonWiz](https://github.com/MoonWiz-io)
-#### I'm a tech-savvy entrepreneur and programmer with a huge desire for learning and development.
-Finishing this year my degree in Computer Science and Business at The Open University.
-
-I excel at time management, and I like to do tough things.
+### Currently Frontend Engineer at [Landa](https://landa.app)
+### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io)
+A highly driven, fast learner, with over three years of experience in front-end development, specializing in React, NextJS, and TypeScript.
+with an entrepreneurial spirit and a passion for tech and UI.  
 
 ### MoonWiz 🌙
 #### Crypto Trading Ideas From Across The Web
@@ -13,7 +11,7 @@ I excel at time management, and I like to do tough things.
 MoonWiz is a Smart Network for trading ideas and strategies.
 We collect data from multiple sources online to save you time while trading.
 
-#### I Founded, Designed and Built MoonWiz:
+#### Played a critical role in the POC, design, and development of the platform, with a focus on innovation and user experience:
  - [MoonWiz Main](https://moonwiz.io)
  - [MoonWiz Application](https://app.moonwiz.io)
  - [MoonWiz Old Application](https://old.moonwiz.io) -> Unique custom design!
@@ -32,7 +30,6 @@ We collect data from multiple sources online to save you time while trading.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
