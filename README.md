@@ -1,9 +1,11 @@
 ## Hey, I'm Flaysh
 
-### Currently Frontend Engineer at [Landa](https://landa.app)
-### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io)
 A highly driven, fast learner, with over three years of experience in front-end development, specializing in React, NextJS, and TypeScript.
 with an entrepreneurial spirit and a passion for tech and UI.  
+
+### Currently Frontend Engineer at [Landa](https://landa.app)
+### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io)
+
 
 ### MoonWiz 🌙
 #### Crypto Trading Ideas From Across The Web
