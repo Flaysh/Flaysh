@@ -3,13 +3,11 @@
 A highly driven, fast learner, with over three years of experience in front-end development, specializing in React, NextJS, and TypeScript.
 with an entrepreneurial spirit and a passion for tech and UI.  
 
-### Currently Frontend Engineer at [Landa](https://landa.app)
+### Currently Frontend Engineer at [Apono](https://apono.io)
+### Former Frontend Engineer at [Landa](https://landa.app)
 ### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io)
 
-
 ### MoonWiz 🌙
-#### Crypto Trading Ideas From Across The Web
-
 MoonWiz is a Smart Network for trading ideas and strategies.
 We collect data from multiple sources online to save you time while trading.
 
