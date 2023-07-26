@@ -3,7 +3,7 @@
 A highly driven, fast learner, with over four years of experience in front-end development, specializing in React, NextJS, and TypeScript.
 with an entrepreneurial spirit and a passion for tech and UI.  
 
-### Currently Frontend Engineer at [Apono](https://apono.io)
+### Currently Full-stack Engineer at [Apono](https://apono.io)
 ### Former Frontend Engineer at [Landa](https://landa.app)
 ### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io)
 
