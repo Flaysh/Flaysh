@@ -14,7 +14,7 @@ with an entrepreneurial spirit and a passion for tech and UI.
  - [Landa Web](https://landa.app/m)
  - And much more :)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=flaysh&theme=discord&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=flaysh&theme=discord&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Skills
 
