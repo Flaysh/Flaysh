@@ -1,24 +1,24 @@
 ## Hey, I'm Flaysh ☄️
 
 A highly driven, fast learner, with over five years of experience in front-end development, specializing in React, NextJS, and TypeScript.
-with an entrepreneurial spirit and a passion for tech and UI.  
+with an entrepreneurial spirit and a passion for tech and UI
 
-### Currently Full-stack Engineer at [Apono](https://apono.io)
-### Former Frontend Engineer at [Landa](https://landa.app)
-### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io)
+### Currently Full-stack Engineer at [Apono](https://apono.io) 
+### Former Frontend Engineer at [Landa](https://landa.app) 
+### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io) 
 
 #### Played a critical role in the POC, design, and development of those project with a focus on innovation and user experience:
+ - [Landa Web](https://landa.app/m)
  - [Apono App](https://app.apono.io)
  - [Apono Portal](https://portal.apono.io)
- - [Landa Web](https://landa.app/m)
- - [MoonWiz Main](https://moonwiz.io)
- - [MoonWiz Application](https://app.moonwiz.io)
- - [MoonWiz Old Application](https://old.moonwiz.io) -> Unique custom design!
+ - [MoonWiz](https://moonwiz.io)
+ - [MoonWiz App](https://app.moonwiz.io)
+ - [MoonWiz Old App](https://old.moonwiz.io) -> Unique custom design!
  - And much more :)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=flaysh&theme=discord&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠 Skills
+### 🛠 Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -34,6 +34,6 @@ with an entrepreneurial spirit and a passion for tech and UI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flaysh.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaysh)
