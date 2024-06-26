@@ -7,7 +7,7 @@ with an entrepreneurial spirit and a passion for tech and UI
 #### Former Frontend Engineer at [Landa](https://landa.app) 
 #### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io) 
 
-#### Played a critical role in the POC, design, and development of those project with a focus on innovation and user experience:
+#### Played a critical role in the POC, design, and development of many project with a focus on innovation and user experience:
  - [Landa Web](https://landa.app/m)
  - [Apono App](https://app.apono.io)
  - [Apono Portal](https://portal.apono.io)
