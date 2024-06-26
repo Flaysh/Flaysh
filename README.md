@@ -17,6 +17,7 @@ with an entrepreneurial spirit and a passion for tech and UI
  - And much more :)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=flaysh&theme=discord&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaysh)
 
 ### 🛠 Skills
 
@@ -34,6 +35,3 @@ with an entrepreneurial spirit and a passion for tech and UI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
 
-### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flaysh.me/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaysh)
