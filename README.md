@@ -11,7 +11,6 @@ with an entrepreneurial spirit and a passion for tech and UI
  - [Landa Web](https://landa.app/m)
  - [Apono App](https://app.apono.io)
  - [Apono Portal](https://portal.apono.io)
- - [MoonWiz](https://moonwiz.io)
  - [MoonWiz App](https://app.moonwiz.io)
  - [MoonWiz Old App](https://old.moonwiz.io) -> Unique custom design!
  - And much more :)
