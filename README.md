@@ -1,6 +1,6 @@
 ## Hey, I'm Flaysh ☄️
 
-A highly driven, fast learner, with over five years of experience in front-end development, specializing in React, NextJS, and TypeScript.
+A highly driven, fast learner, with over Six years of experience in front-end development, specializing in React, NextJS, and TypeScript.
 with an entrepreneurial spirit and a passion for tech and UI
 
 ### Senior Frontend Engineer at [Apono](https://apono.io) 
