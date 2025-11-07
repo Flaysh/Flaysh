@@ -1,9 +1,10 @@
-## Hey, I'm Flaysh ☄️
+## Hey, I'm Flaysh 🖤
 
-A highly driven, fast learner, with over Six years of experience in front-end development, specializing in React, NextJS, and TypeScript.
-with an entrepreneurial spirit and a passion for tech and UI
+### Software Engineer & Entrepreneur | AudioVisual Artist & Producer 
+A highly driven, fast learner, with over six years of experience in frontend and backend development, specializing in React, NodeJS, and TypeScript.
+with an entrepreneurial spirit and a passion for tech and UI.
 
-### Senior Frontend Engineer at [Apono](https://apono.io) 
+### Senior Fullstack Engineer at [Apono](https://apono.io) 
 #### Former Frontend Engineer at [Landa](https://landa.app) 
 #### Former Co-Founder & Lead Software Engineer at [MoonWiz](https://github.com/MoonWiz-io) 
 
@@ -12,8 +13,6 @@ with an entrepreneurial spirit and a passion for tech and UI
  - [Apono Portal](https://portal.apono.io)
  - [Landa Web](https://landa.app/m)
  - And much more :)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=flaysh&theme=discord&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠 Skills
 
