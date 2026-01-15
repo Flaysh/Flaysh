@@ -1,8 +1,7 @@
 ## Hey, I'm Flaysh 🖤
 
-### Software Engineer & Entrepreneur | AudioVisual Artist & Producer 
-A highly driven, fast learner, with over six years of experience in frontend and backend development, specializing in React, NodeJS, and TypeScript.
-with an entrepreneurial spirit and a passion for tech and UI.
+### Frontend / Full-Stack Engineer (React/Next/TS) | AudioVisual Artist 
+Full Stack / Frontend engineer with 6+ years building production web apps with React/Next.js + TypeScript. Strong ownership across client-facing products, NestJS + GraphQL BFF, performance, and delivery quality (tests + CI/CD). Comfortable taking features from definition to production and collaborating cross-functionally.
 
 ### Senior Fullstack Engineer at [Apono](https://apono.io) 
 #### Former Frontend Engineer at [Landa](https://landa.app) 
