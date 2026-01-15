@@ -1,4 +1,4 @@
-# Itay Flaysher
+# Itay Flaysher | Flaysh
 
 **Senior Full Stack Engineer**
 
@@ -36,12 +36,6 @@
 
 ---
 
-## Education
-
-**B.Sc. Computer Science & Business** — The Open University of Israel
-
----
-
 ## Projects
 
 - [Apono App](https://app.apono.io) — Cloud access management admin console
@@ -60,5 +54,3 @@ I perform as **FLAYSH**, an audiovisual artist and electronic music producer. I 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/flaysh)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:itayf3x@gmail.com)
-
-<sub>Tel Aviv, Israel</sub>
